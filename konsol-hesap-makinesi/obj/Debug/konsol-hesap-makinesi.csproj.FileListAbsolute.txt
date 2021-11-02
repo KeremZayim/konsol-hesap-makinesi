@@ -1,0 +1,7 @@
+C:\Users\LAB\source\repos\konsol-hesap-makinesi\konsol-hesap-makinesi\obj\Debug\konsol-hesap-makinesi.csprojAssemblyReference.cache
+C:\Users\LAB\source\repos\konsol-hesap-makinesi\konsol-hesap-makinesi\obj\Debug\konsol-hesap-makinesi.csproj.CoreCompileInputs.cache
+C:\Users\LAB\source\repos\konsol-hesap-makinesi\konsol-hesap-makinesi\bin\Debug\konsol-hesap-makinesi.exe.config
+C:\Users\LAB\source\repos\konsol-hesap-makinesi\konsol-hesap-makinesi\bin\Debug\konsol-hesap-makinesi.exe
+C:\Users\LAB\source\repos\konsol-hesap-makinesi\konsol-hesap-makinesi\bin\Debug\konsol-hesap-makinesi.pdb
+C:\Users\LAB\source\repos\konsol-hesap-makinesi\konsol-hesap-makinesi\obj\Debug\konsol-hesap-makinesi.exe
+C:\Users\LAB\source\repos\konsol-hesap-makinesi\konsol-hesap-makinesi\obj\Debug\konsol-hesap-makinesi.pdb
